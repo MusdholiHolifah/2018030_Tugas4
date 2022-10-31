@@ -1,0 +1,31 @@
+<resources>
+    <string name="navigation_drawer_open">Open Navigation
+Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation
+Drawer</string>
+    <string name="app_name">2018030</string>
+    <string name="deskription_menu">Deskripsi</string>
+    <string name="isi">Kelinci merupakan hewan mamalia dari famili Leporidae, yang dapat ditemukan di banyak bagian bumi.
+        Kelinci berkembang biak dengan cara beranak yang disebut vivipar.
+        Dulunya, hewan ini adalah hewan liar yang hidup di Afrika hingga ke daratan Eropa.</string>
+    <string name="jenis">jenis-jenis Kelinci</string>
+    <string name="isi2">Kelinci Rex, Kelinci Polandia, Kelinci Mini Lop, Kelinci Eropa, Kelinci Fuzzy Lop,
+        Kelinci Netherland Dwarf, Kelinci Jersey Wooly.</string>
+    <string name="isiikan">    Ikan merupakan anggota vertebrata poikilotermik yang hidup di air dan bernapas dengan insang.
+        Ikan merupakan kelompok vertebrata yang paling beraneka ragam dengan jumlah spesies lebih dari 27,000 di seluruh dunia.
+</string>
+    <string name="isiikan2">
+    Kecepatan: Ikan matahari: 3,2 km/jam, Hiu putih: 56 km/jam.
+    Panjang: Ikan petarung siam: 6 – 8 cm, Ikan mas: 40 – 80 cm, LAINNYA.
+    Lama hidup: Ikan petarung siam: 2 – 5 tahun, Ikan mas: 20 tahun, LAINNYA.
+    Massa: Ikan mas: 2 – 14 kg, Ikan matahari: 250 – 2.000 kg </string>
+    <string name="isiburung">Burung adalah anggota kelompok hewan bertulang belakang yang memiliki bulu dan sayap.
+        </string>
+    <string name="burung">Jenis-jenis burung begitu bervariasi,
+        mulai dari burung kolibri yang kecil dan dapat mengepakkan sayap dengan sangat cepat, penguin yang menyelam dengan sayapnya, hingga burung unta, yang lebih tinggi dari manusia.</string>
+    <string name="data1">Kecepatan: Alap-alap kawah: 390 km/jam</string>
+    <string name="data2">Nama ilmiah: Aves</string>
+    <string name="data3">Rentang sayap: Alap-alap kawah: 74 – 120 cm</string>
+    <string name="data4">Klasifikasi lebih tinggi: Ornithurae</string>
+
+</resources>
